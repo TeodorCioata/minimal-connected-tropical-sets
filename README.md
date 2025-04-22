@@ -1,0 +1,1 @@
+# minimal-connected-tropical-sets
